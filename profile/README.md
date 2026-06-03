@@ -11,7 +11,7 @@
 
 Svitlo is a minimal graphical GNU/Linux system built entirely from source by a single engine called promin. The whole userspace, from the toolchain (binutils, gcc, glibc), kernel, bootloader and base utilities, through graphics, network and wifi, up to applications, is compiled from source through declarative recipes
 
-The bootable image is a composition of prebuilt store packages (a profile generation), not a separate install phase. The image carries the kernel, the bootloader, the network and wifi stack, and promin itself so the system can manage itself. Graphical layer is Wayland with the Sway compositor
+The bootable image is a composition of prebuilt store packages (a profile generation), not a separate install phase. The image carries the kernel, the bootloader, the network and wifi stack, and promin itself so the system can manage itself. The desktop is COSMIC (libcosmic, Rust), pure Wayland with no X11 component in the base
 
 Every binary is traceable to its source, version and dependency set through a single hash. The system is Svitlo, the package manager is promin
 
@@ -63,7 +63,7 @@ Built from source, fully reproducible, transparent from source to binary. Minima
 
 ## Status and scope
 
-Target hardware is x86_64, which covers the bulk of desktops and laptops. ARM support is planned as the next step. Graphics in the current shape is Wayland with Sway. The system uses glibc
+Target hardware is x86_64, which covers the bulk of desktops and laptops. ARM support is planned as the next step. The desktop is COSMIC on pure Wayland, with no X11 in the base (XWayland is an optional end-user package). The system uses glibc
 
 ## Roadmap
 
