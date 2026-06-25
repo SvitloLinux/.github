@@ -2,10 +2,12 @@
 
 > Незалежний дистрибутив GNU/Linux з України з власною пакетною базою
 
+<!-- блок підтримки тимчасово прихований, відкрити за запитом
 ### Підтримати проєкт
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kachanyk)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/SvitloLinux)
+-->
 
 ## Що це
 
