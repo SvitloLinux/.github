@@ -80,5 +80,3 @@ Svitlo прагне бути простим, зрозумілим, логічн�
 У розробці
 
 > Copyright (C) 2025 Yurii Kachaniuk, Україна <wku@ukr.net>
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SvitloLinux)
